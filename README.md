@@ -15,7 +15,7 @@ sudo apt install curl
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
 
-Finally, run the following commands:
+* Finally, run the following commands:
 
 ```sh
 sudo git clone https://github.com/zsh-users/zsh-autosuggestions.git /usr/share/
